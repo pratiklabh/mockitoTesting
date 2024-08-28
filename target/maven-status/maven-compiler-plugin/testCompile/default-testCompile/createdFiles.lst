@@ -1,0 +1,5 @@
+com/sts/mockitotesting/testClasses/SumTest.class
+mockito/test/UserServiceImplTest.class
+com/sts/mockitotesting/testClasses/UserServiceImplCaptorTest.class
+com/sts/mockitotesting/testClasses/UserServiceImplMockTest.class
+mockito/test/UserServiceImplMockTest.class
